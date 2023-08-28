@@ -1,4 +1,4 @@
-# vue-modal-component-example
+# vue-modal-component-template
 
 ## Project setup
 ```
@@ -22,4 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue-modal-component-template
+
+### Tutorial Source
+DigitalOcean, by Filipa Lacerda
+
+[https://www.digitalocean.com/community/tutorials/vuejs-vue-modal-component](url)
